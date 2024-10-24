@@ -1,0 +1,28 @@
+index:
+  name: newsgroups
+  prefix: newsgroups
+  key_separator: ':'
+  storage_type: hash
+fields:
+- name: text
+  type: text
+  attrs:
+    sortable: false
+    weight: 1
+    no_stem: false
+    withsuffixtrie: false
+- name: embedding
+  type: vector
+  attrs:
+    dims: 4096
+    algorithm: flat
+    datatype: float32
+    distance_metric: cosine
+- name: category
+  type: tag
+  attrs:
+    sortable: false
+    separator: '|'
+    case_sensitive: false
+    withsuffixtrie: false
+version: 0.1.0
