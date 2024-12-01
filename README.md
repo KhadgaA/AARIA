@@ -53,7 +53,7 @@ The same workflow is enabled by a single oracle node to manage subtasks. Each to
 The system prompt used is show in the below figure
 ![system_prompt](https://github.com/ManishHyd/langgraph/blob/main/system_prompt.png)
 
-The final report generated is hown in the below figure
+The final report generated is shown in the below figure
 ![cascac](https://github.com/ManishHyd/langgraph/blob/main/final_report.png)
 
 
