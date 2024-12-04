@@ -1,11 +1,7 @@
-The following work was done as part of the major evaluation project for the course CSL7860: Foundation Models and Generative AI.
-
-The project was done as a team with the help of [Khadga Jyoth Alli](https://github.com/KhadgaA) and [Manish Vutkoori](https://github.com/ManishHyd).
-
 # Multi-Agent Research Workflow Using CREW AI
 
-This repository contains the implementation of innovative research workflows based on a **multi-agent architecture** using CREW AI. The new workflow counters all limitations imposed by its predecessor [Link](https://github.com/ManishHyd/langgraph) and distributes tasks among seven agents, each assigned to a particular specialty, improving efficiency, adaptability, and scalability.
-![dada](https://github.com/KhadgaA/GenAI-Major-project/blob/main/workflow.png)
+This repository contains the implementation of innovative research workflows based on a **multi-agent architecture** using CREW AI. The new workflow counters all limitations imposed by its predecessor [Link](../langgraph) and distributes tasks among seven agents, each assigned to a particular specialty, improving efficiency, adaptability, and scalability.
+![dada](./workflow.png)
 
 ---
 
@@ -49,4 +45,4 @@ The multi-agent design entails distributing tasks to independent agents; this; i
 ## Results
 An example report generated is shown in the below figure
 
-![asad](https://github.com/KhadgaA/GenAI-Major-project/blob/main/query_report.png)
+![asad](./query_report.png)

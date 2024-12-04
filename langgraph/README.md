@@ -1,14 +1,11 @@
-The final part of this project is present in this repository: [Link](https://github.com/KhadgaA/GenAI-Major-project)
+The final part of this project is present in this repository: [Link](../CrewAI/)
 
-The following work was done as part of the mid evaluation project for the course CSL7860: Foundation Models and Generative AI.
-
-The project was done as a team with the help of [Khadga Jyoth Alli](https://github.com/KhadgaA) and [Manish Vutkoori](https://github.com/ManishHyd).
 
 # Initial Research Workflow
 
 This repository is intended to do the implementation of a research synthesis workflow designed to automate query processing and web searching and to compile the research using a single-agent architecture. The system is designed to demonstrate integrated tool usage, with which the agent (Oracle) selects from and the basic architecture present for research automation.
 
-![xaxa](https://github.com/ManishHyd/langgraph/blob/main/workflow.png)
+![xaxa](./workflow.png)
 
 ## Features
 
@@ -51,9 +48,9 @@ The same workflow is enabled by a single oracle node to manage subtasks. Each to
 
 ## Results
 The system prompt used is show in the below figure
-![system_prompt](https://github.com/ManishHyd/langgraph/blob/main/system_prompt.png)
+![system_prompt](./system_prompt.png)
 
 The final report generated is shown in the below figure
-![cascac](https://github.com/ManishHyd/langgraph/blob/main/final_report.png)
+![cascac](./final_report.png)
 
 
